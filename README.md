@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <a href"https://www.eventbrite.co.uk/e/women-in-data-science-oslo-tickets-57507382128"><img width="600" src="media/wids_banner.jpeg" alt="WiDS banner"></a>
+  <a href="https://www.eventbrite.co.uk/e/women-in-data-science-oslo-tickets-57507382128"><img width="600" src="media/wids_banner.jpeg" alt="WiDS banner"></a>
 </div>
 
 Original description is available at [WiDS pages](http://www.wids-oslo.org/). 
