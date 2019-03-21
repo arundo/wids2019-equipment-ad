@@ -1,6 +1,11 @@
 # Build an Anomaly Detection Model using Deep Learning 
 **Workshop presented during Women in Data Science Conference 04.04.2019 in Oslo**
 
+
+<div align="center">
+  <a href"https://www.eventbrite.co.uk/e/women-in-data-science-oslo-tickets-57507382128"><img width="600" src="media/wids_banner.jpeg" alt="WiDS banner"></a>
+</div>
+
 Original description is available at [WiDS pages](http://www.wids-oslo.org/). 
 
 The introductory slides are available in the [slides](/slides) folder of this repository. 
