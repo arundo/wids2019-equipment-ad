@@ -17,6 +17,7 @@ keras = "*"
 tensorflow = "*"
 "h5py" = "*"
 pyyaml = ">=4.2b1"
+imbalanced-learn = "*"
 
 [dev-packages]
 
