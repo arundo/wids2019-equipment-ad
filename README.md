@@ -1,7 +1,7 @@
-# Applied Machine Learning for Anomaly Detection on Equipment
-**Workshop presented during AMLD2019 26.01.2019 in Lausanne**
+# Build an Anomaly Detection Model using Deep Learning 
+**Workshop presented during Women in Data Science Conference 04.04.2019 in Oslo**
 
-Original description is available at [AMLD webpages](https://www.appliedmldays.org/workshops/applied-machine-learning-for-anomaly-detection-on-equipment). 
+Original description is available at [WiDS pages](http://www.wids-oslo.org/). 
 
 The introductory slides are available in the [slides](/slides) folder of this repository. 
 
@@ -15,12 +15,6 @@ pipenv install
 ```
 
 Then you should be able to start a jupyter notebook and execute the notebook content.
-
-### Note
-
-We are currently not providing access to [Arundo Composer](https://docs.arundo.com/composer/overview)
-therefore you won't be able to follow the second part of the tutorial and deploy models to
-[Arundo Fabric](https://docs.arundo.com/fabric/overview).
 
 
 ## Data
